@@ -1,0 +1,14 @@
+{
+    "name": "jquery-textarea-expand",
+    "description": "textarea input adjust",
+    "version": "1.0.0",
+    "dependencies": {
+        "jquery": "1.x"
+    },
+    "devDependencies": {
+        
+    },
+    "scripts": {
+        
+    }
+}
